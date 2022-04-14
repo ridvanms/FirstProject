@@ -8,6 +8,7 @@
 // }
 // change(["22"]);
 
+//////////////////////////////////////////////
 // // Vacation Books List 📃
 
 // function vacationReading(input) {
@@ -31,6 +32,7 @@
 // }
 // radiansToDegrees(["3.1416"]);
 
+//////////////////////////////////////////////
 // Deposit Calculator
 
 // function depositCalculator(input) {
@@ -44,10 +46,8 @@
 //   console.log(total);
 // }
 // depositCalculator(["2350", "6", "7"]);
-// ...
 
-// ...
-
+//////////////////////////////////////////////
 // // suppliesForSchool 📝
 // function suppliesForSchool(input) {
 //   let penCount = Number(input[0]);
@@ -62,6 +62,8 @@
 // }
 
 // suppliesForSchool(["4", "2", "5", "13"]);
+
+//////////////////////////////////////////////
 // // Repainting 🎨
 // function repaining(input) {
 //   let priceNylon = 1.5;
@@ -89,7 +91,9 @@
 // }
 // repaining(["10", "11", "4", "8"]);
 
+//////////////////////////////////////////////
 // // Food Delivery 😋
+
 // function delivery(input) {
 //   const chickenMenu = 10.35;
 //   const fishMenu = 12.4;
@@ -114,7 +118,9 @@
 // }
 // delivery(["2", "4", "3"]);
 
+//////////////////////////////////////////////
 // // Basketball Equipment 🏀
+
 // function equipment(input) {
 //   let pricePerYear = Number(input[0]);
 
@@ -134,7 +140,9 @@
 // }
 // equipment(["365"]);
 
+//////////////////////////////////////////////
 // // FISH TANK  ♒
+
 // function fishTank(input) {
 //   let length = Number(input[0]);
 //   let width = Number(input[1]);
