@@ -97,7 +97,7 @@ function repaining(input) {
 }
 repaining(["10", "11", "4", "8"]);
 
-// // Food Delivery 😋
+
 function delivery(input) {
   const chickenMenu = 10.35;
   const fishMenu = 12.4;
@@ -122,7 +122,7 @@ function delivery(input) {
 }
 delivery(["2", "4", "3"]);
 
-// // Basketball Equipment 🏀
+
 function equipment(input) {
   let pricePerYear = Number(input[0]);
 
@@ -142,7 +142,7 @@ function equipment(input) {
 }
 equipment(["365"]);
 
-// // FISH TANK  ♒
+
 function fishTank(input) {
   let length = Number(input[0]);
   let width = Number(input[1]);
@@ -157,7 +157,7 @@ function fishTank(input) {
 }
 fishTank(["85", "75", "47", "17"]);
 
-//////////////////////////////////
+
 
 function harvest(input) {
   const vineYardSqM = Number(input[0]);
