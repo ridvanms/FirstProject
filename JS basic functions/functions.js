@@ -11,9 +11,7 @@ function greening(value) {
 }
 greening(["550"]);
 
-///////////////////////////////////////////////////////////////
-///////////// First Steps In Coding - Exercise ////////////////
-// USD to BGN 💹
+
 function change(input) {
   const usd = 1.79549;
   let bgn = Number(input[0]);
@@ -23,7 +21,6 @@ function change(input) {
 }
 change(["22"]);
 
-// // Vacation Books List 📃
 
 function vacationReading(input) {
   let pages = Number(input[0]);
@@ -37,7 +34,7 @@ function vacationReading(input) {
 }
 vacationReading(["212", "20", "2"]);
 
-// // Radians to Degrees 🎓
+
 function radiansToDegrees(input) {
   let radians = Number(input[0]);
 
@@ -46,7 +43,6 @@ function radiansToDegrees(input) {
 }
 radiansToDegrees(["3.1416"]);
 
-Deposit Calculator
 
 function depositCalculator(input) {
   let depositAmount = Number(input[0]);
@@ -59,11 +55,8 @@ function depositCalculator(input) {
   console.log(total);
 }
 depositCalculator(["2350", "6", "7"]);
-// ...
 
-// ...
 
-// // suppliesForSchool 📝
 function suppliesForSchool(input) {
   let penCount = Number(input[0]);
   let markerCount = Number(input[1]);
@@ -77,7 +70,7 @@ function suppliesForSchool(input) {
 }
 suppliesForSchool(["4", "2", "5", "13"]);
 
-// // Repainting 🎨
+
 function repaining(input) {
   let priceNylon = 1.5;
   let pricePaint = 14.5;
@@ -105,7 +98,7 @@ function repaining(input) {
 repaining(["10", "11", "4", "8"]);
 
 // // Food Delivery 😋
-// function delivery(input) {
+function delivery(input) {
   const chickenMenu = 10.35;
   const fishMenu = 12.4;
   const vegetarianMenu = 8.15;
